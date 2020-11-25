@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="css/index.css" />
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <div id="company">
+        <h2 id="registerTt">Global Solution SAS</h2>
+    </div>
+
+    <div id="registerContainer">
+        <input id="description" class="inputdata" type="text" placeholder="Descripción de la tarea">
+        <button id="regBt" class="regBt">Nueva Tarea</button>
+    </div>
+
+    <div id="tasksContainer">
+        <div id="toDo">
+            <h3 id="toDoTxt" class="headers">TO DO</h3>
+            <div id="toDoContainer"></div>
+        </div>
+        <div id="doing">
+            <h3 id="doingTxt" class="headers">DOING</h3>
+            <div id="doingContainer"></div>
+        </div>
+        <div id="done">
+            <h3 id="doneTxt" class="headers">DONE</h3>
+            <div id="doneContainer"></div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
+<script src="js/toDoView.js"></script>
+<script src="js/doingView.js"></script>
+<script src="js/doneView.js"></script>
+<script src="js/index.js"></script>
