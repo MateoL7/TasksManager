@@ -41,94 +41,6 @@
       <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/webapp/js/teacherView.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/webapp/teacher.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTTPClient/HTTPClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TasksManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/db/MySQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/DoingTaskLoaiza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/DoneTaskLoaiza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/ToDoTaskLoaiza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/dto/DoingTaskLoaizaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/dto/DoneTaskLoaizaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/dto/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/dto/ToDoTaskLoaizaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/provider/DoingTaskProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/provider/DoneTaskProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/provider/ToDoTaskProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/DatabaseServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/DoingTaskServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/DoneTaskServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/ToDoTaskServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/doingView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/doneView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/toDoView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/config/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/db/MySQLConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/entity/DoingTaskLoaiza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/entity/DoneTaskLoaiza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/entity/ToDoTaskLoaiza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/model/dto/DoingTaskLoaizaDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/model/dto/DoneTaskLoaizaDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/model/dto/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/model/dto/ToDoTaskLoaizaDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/model/provider/DoingTaskProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/model/provider/DoneTaskProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/model/provider/ToDoTaskProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/services/DatabaseServices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/services/DoingTaskServices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/services/DoneTaskServices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/services/ToDoTaskServices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/aopalliance-repackaged-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/gson-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/hk2-api-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/hk2-locator-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/hk2-utils-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.activation-api-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.annotation-api-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.inject-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.json-1.1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.json-api-1.1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.json.bind-api-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.ws.rs-api-2.1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/javassist-3.22.0-CR2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jaxrs-ri-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-client-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-common-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-container-servlet-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-container-servlet-core-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-hk2-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-media-jaxb-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-media-json-binding-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-media-sse-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/jersey-server-2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/osgi-resource-locator-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/lib/yasson-1.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db/MySQLConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entity/DoingTaskLoaiza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entity/DoneTaskLoaiza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entity/ToDoTaskLoaiza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model/dto/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model/dto/ToDoTaskLoaizaDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/services/DatabaseServices.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Eclipse Workspace/ConexionJAVAMySQL/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Eclipse Workspace/ConexionJAVAMySQL/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Eclipse Workspace/ConexionJAVAMySQL/.idea/encodings.xml" beforeDir="false" />
@@ -196,6 +108,13 @@
       <change beforePath="$PROJECT_DIR$/../PracticeApiRest/src/main/java/services/EchoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeApiRest/src/main/java/services/EchoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PracticeApiRest/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeApiRest/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PracticeApiRest/target/PracticeApiRest.war" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeApiRest/target/PracticeApiRest.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/doingView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/doingView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TasksManager.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/TasksManager.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/config/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TasksManager/WEB-INF/classes/config/ApplicationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/ApplicationConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/CourseProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/CourseProvider.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/TeacherProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/TeacherProvider.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/dto/Answer.class" beforeDir="false" />
@@ -217,7 +136,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -417,7 +336,8 @@
       <updated>1606227441445</updated>
       <workItem from="1606227442881" duration="12673000" />
       <workItem from="1606262400768" duration="8099000" />
-      <workItem from="1606307326812" duration="10570000" />
+      <workItem from="1606307326812" duration="12164000" />
+      <workItem from="1606350803344" duration="1850000" />
     </task>
     <servers />
   </component>
@@ -456,54 +376,54 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="883" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1606228281980" />
-    <state width="1204" height="232" key="GridCell.Tab.0.bottom" timestamp="1606319912695">
+    <state width="1204" height="232" key="GridCell.Tab.0.bottom" timestamp="1606355279660">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606319912695" />
-    <state width="1204" height="232" key="GridCell.Tab.0.center" timestamp="1606319912695">
+    <state width="1204" height="232" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606355279660" />
+    <state width="1204" height="232" key="GridCell.Tab.0.center" timestamp="1606355279660">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1606319912695" />
-    <state width="1204" height="232" key="GridCell.Tab.0.left" timestamp="1606319912695">
+    <state width="1204" height="232" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1606355279660" />
+    <state width="1204" height="232" key="GridCell.Tab.0.left" timestamp="1606355279659">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1606319912695" />
-    <state width="1204" height="232" key="GridCell.Tab.0.right" timestamp="1606319912695">
+    <state width="1204" height="232" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1606355279659" />
+    <state width="1204" height="232" key="GridCell.Tab.0.right" timestamp="1606355279660">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1606319912695" />
-    <state width="1204" height="232" key="GridCell.Tab.1.bottom" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1606355279660" />
+    <state width="1204" height="232" key="GridCell.Tab.1.bottom" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
-    <state width="1204" height="232" key="GridCell.Tab.1.center" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
+    <state width="1204" height="232" key="GridCell.Tab.1.center" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
-    <state width="1204" height="232" key="GridCell.Tab.1.left" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
+    <state width="1204" height="232" key="GridCell.Tab.1.left" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
-    <state width="1204" height="232" key="GridCell.Tab.1.right" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
+    <state width="1204" height="232" key="GridCell.Tab.1.right" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
-    <state width="1204" height="232" key="GridCell.Tab.2.bottom" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
+    <state width="1204" height="232" key="GridCell.Tab.2.bottom" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
-    <state width="1204" height="232" key="GridCell.Tab.2.center" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
+    <state width="1204" height="232" key="GridCell.Tab.2.center" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
-    <state width="1204" height="232" key="GridCell.Tab.2.left" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
+    <state width="1204" height="232" key="GridCell.Tab.2.left" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
-    <state width="1204" height="232" key="GridCell.Tab.2.right" timestamp="1606319912552">
+    <state width="1204" height="232" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
+    <state width="1204" height="232" key="GridCell.Tab.2.right" timestamp="1606355279497">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1204" height="232" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1606319912552" />
+    <state width="1204" height="232" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1606355279497" />
     <state x="117" y="191" width="1180" height="560" key="dock-window-1" timestamp="1606246579389">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

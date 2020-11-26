@@ -21,7 +21,7 @@ class DoingView{
     nextState = () =>{
         let obj = {
             id: 0,
-            description: this.task.description
+            description: this.task.description,
         };
         let xhr = new XMLHttpRequest();
         xhr.addEventListener('readystatechange', ()=>{
